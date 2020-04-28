@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import {Switch,Route,Redirect} from 'react-router-dom'
+import {Switch,Route,Redirect} from 'antd'
 import Admin from './pages/Admin/Admin'
 import Login from './pages/Login/Login'
 
